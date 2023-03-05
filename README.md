@@ -1,15 +1,19 @@
 # OrtakProjeGlobalAIHub
 
-[x] Veritabanı için csv kullanılacak.
+(x) Veritabanı için csv kullanılacak.
 <br>
-[ ]  Navigasyon menüsü
+( )  Navigasyon menüsü
 <br>
-[ ]  Pizza boyut/içerik/malzeme seçimi
+( )  Pizza boyut/içerik/malzeme seçimi
 <br>
-[ ]  İçecek ekleme
+( )  İçecek ekleme
 <br>
-[ ]  Adres girişi
+( )  Adres girişi
 <br>
-[ ]  Sipariş tamamlama
+( )  Sipariş tamamlama
 <br>
 
+# Değişken isimlendirme ve alınan başlık
+Enes: Ben pizzanın boyutunu belirleme içerik ve malzeme seçmeyi alıyorum.
+<br>
+Yazdığım değişkenleri ve csv dosyasına gönderilecek şeyleri buraya not düşeceğim.
