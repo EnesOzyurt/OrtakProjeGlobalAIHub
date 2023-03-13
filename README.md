@@ -16,3 +16,7 @@ Bahriye İŞGÖR
 # Proje
 
 Pizza satın alma uygulaması
+<br>
+Dosya yükleme işlemleri Atakan ve Enes tarafından yapıldı.
+<br>
+Fonksiyonlar bölünerek herkes tarafından kod yazıldı.
