@@ -3,10 +3,15 @@
 # Ekip
 
 Atakan Fethi PALA
+<br>
 Enes ÖZYURT
+<br>
 Tuğçe KIZILKOCA
+<br>
 Orhan YARDIM
+<br>
 Bahriye İŞGÖR
+<br>
 
 # Proje
 
